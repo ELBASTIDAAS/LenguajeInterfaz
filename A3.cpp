@@ -1,13 +1,17 @@
+#include <stdio.h>
+
 /******************************************************************************
 
 Problema 33
 
 Imprimir la suma y el producto de todos los posibles pares diferentes de enteros del 15 al 20
 
-Bastidas Verdin Miguel Antonio
+Bastidas Verdin Miguel Antonio 
+
+@ELBASTIDAAS
 
 *******************************************************************************/
-#include <stdio.h>
+
 
 int main()
 {
