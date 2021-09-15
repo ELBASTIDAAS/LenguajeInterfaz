@@ -8,6 +8,7 @@ Determinar si un entero dado es divisible entre 2 y 5
 
 Bastidas Verdin Miguel Antonio
 
+@ELBASTIDAAS
 
 *******************************************************************************/
 
