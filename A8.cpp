@@ -1,3 +1,4 @@
+#include <stdio.h>
 /******************************************************************************
 Problema 38
 
@@ -6,8 +7,10 @@ Introducir 12 valores de A y 10 de B. Calcular la suma de los valores A, la de L
 
 Bastidas Verdin Miguel Antonio
 
+@ELBASTIDAAS
+
 *******************************************************************************/
-#include <stdio.h>
+
 
 int main()
 {
