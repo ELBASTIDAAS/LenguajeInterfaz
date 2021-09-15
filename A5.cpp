@@ -1,11 +1,14 @@
+#include <stdio.h>
 /******************************************************************************
 Problema 35 
 
 Escribir en un programa que determine las constantes w,x,y,z en la ecuacion WX + Y = YZ - Z e imprimir la ecuacion
 
 Bastidas Verdin Miguel Antonio
+
+@ELBASTIDAAS
 *******************************************************************************/
-#include <stdio.h>
+
 
 int main()
 {
