@@ -1,3 +1,5 @@
+#include <stdio.h>
+#include <math.h> 
 /******************************************************************************
  Problema 36 
  
@@ -8,6 +10,8 @@ cuando corra su programa.
 z = (a+b)^3-(x+y)^2(a-c)^4+(1/2(c+x))
 
 Bastidas Verdin Miguel Antonio
+
+@ELBASTIDAAS
 
 *******************************************************************************/
 #include <stdio.h>
