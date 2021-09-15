@@ -1,3 +1,6 @@
+#include <iostream>
+#include <iomanip>
+
 /******************************************************************************
     Problema 31
     
@@ -8,8 +11,7 @@ Bastidas Verdin Miguel Antonio
 
 *******************************************************************************/
 
-#include <iostream>
-#include <iomanip>
+
 
 using namespace std;
 
