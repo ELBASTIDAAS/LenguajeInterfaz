@@ -1,3 +1,6 @@
+#include <stdio.h>
+#include <math.h>
+
 /******************************************************************************
 
 Problema 34
@@ -5,9 +8,11 @@ Problema 34
 Determinar si la suma 3^1974 + 3^1974 + 3^1974 es igual a 3^1975  
 
 Bastidas Verdin Miguel Antonio
+
+@ELBASTIDAAS
+
 *******************************************************************************/
-#include <stdio.h>
-#include <math.h>
+
 
 int main() 
 {
